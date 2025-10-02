@@ -8,9 +8,9 @@ export function Navbar() {
   return (
     <nav className="flex items-center justify-between p-6 bg-white shadow-md sticky top-0 z-10">
       <Link href="/">
-        <h1 className="text-3xl font-serif font-bold text-green-700 cursor-pointer">
+        <h2 className="text-5xl font-extrabold text-green-900 mb-4">
           Village Harvest 🌾
-        </h1>
+        </h2>
       </Link>
       <div className="space-x-4">
         <Link href="/">
