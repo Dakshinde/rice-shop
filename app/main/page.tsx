@@ -1,4 +1,5 @@
 // app/(main)/page.tsx
+
 // Note: This is a Server Component by default, making it fast!
 import { Button } from '@/components/ui/button';
 import Link from 'next/link';
